@@ -5,6 +5,7 @@ import Name from "./Name";
 import Skill from "./Skill";
 import Hobby from "./Hobby";
 import Roll from "./Roll";
+import Details from "./Details";
 
 
 function App() {
@@ -12,10 +13,11 @@ function App() {
     <>
     {/* <Hello />
     <WelcomeMessage /> */}
-      <Name/>
+      {/* <Name/>
       <Roll/>
       <Skill/>
-      <Hobby/>
+      <Hobby/> */}
+      <Details/>
     </>
   )
 }
