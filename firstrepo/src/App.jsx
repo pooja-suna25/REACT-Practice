@@ -6,6 +6,7 @@ import Skill from "./Skill";
 import Hobby from "./Hobby";
 import Roll from "./Roll";
 import Details from "./Details";
+import Postal from "./Address";
 
 
 function App() {
@@ -17,7 +18,9 @@ function App() {
       <Roll/>
       <Skill/>
       <Hobby/> */}
-      <Details/>
+      {/* <Details/> */}
+
+      <Postal/>
     </>
   )
 }
