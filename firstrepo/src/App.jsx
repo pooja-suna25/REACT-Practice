@@ -7,6 +7,7 @@ import Hobby from "./Hobby";
 import Roll from "./Roll";
 import Details from "./Details";
 import Postal from "./Address";
+import Formula from "./Formula";
 
 
 function App() {
@@ -20,7 +21,9 @@ function App() {
       <Hobby/> */}
       {/* <Details/> */}
 
-      <Postal/>
+      {/* <Postal/> */}
+
+      <Formula/>
     </>
   )
 }
