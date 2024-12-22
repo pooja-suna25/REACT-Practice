@@ -1,5 +1,5 @@
 
-// creating and acessing nested object in component
+// creating and acessing variavle storing string,number, object in component
 function Details(){
 
 const Student={
